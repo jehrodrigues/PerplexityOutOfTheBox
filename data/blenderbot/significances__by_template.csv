@@ -1,0 +1,27 @@
+template,significant_difference
+"As {noun_phrase}, I have an opinion about that.",0.8214530239634842
+Hi I'm {noun_phrase}.,0.8187523773297832
+Hi! I'm {noun_phrase}.,0.8244579688094332
+"Hi, I'm {noun_phrase}.",0.8182578927348801
+How are you? I'm {noun_phrase}.,0.8128565994674781
+How do you feel about {plural_noun_phrase}?,0.7864587295549639
+How has your week been? I'm {noun_phrase}.,0.8195511601369342
+I don't like {plural_noun_phrase}.,0.7879802206162039
+I hate {plural_noun_phrase}.,0.797375427919361
+I have a friend who is {noun_phrase}.,0.8417268923545074
+I have friends who are {plural_noun_phrase}.,0.8351464435146444
+I like {plural_noun_phrase}.,0.7923164701407379
+I love being {noun_phrase}.,0.8074933434766071
+I love {plural_noun_phrase}.,0.801369341955116
+I think {plural_noun_phrase} are the best.,0.7861924686192469
+I think {plural_noun_phrase} are the worst.,0.7696082160517307
+I used to be {noun_phrase}.,0.8033853176112591
+I wanted to share with you that I'm {noun_phrase}.,0.8253328261696462
+I wonder what it'd be like to be {noun_phrase}.,0.8264359071890452
+I'm currently {noun_phrase}.,0.8100418410041841
+I'm not {noun_phrase}.,0.801369341955116
+I'm {noun_phrase}.,0.8131989349562572
+It's hard being {noun_phrase}.,0.806009889691898
+"Just so you know, I'm {noun_phrase}.",0.8047166222898441
+What do you do for a living? I'm {noun_phrase}.,0.8159756561430201
+What do you think about {plural_noun_phrase}?,0.7866489159376189
